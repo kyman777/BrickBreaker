@@ -1,0 +1,14 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+canvas {
+  border: 1px solid;
+}
+
+#canvas {
+  background-color: #dce5cc; 
+  display: block;
+  margin: 0 auto;
+
+}
